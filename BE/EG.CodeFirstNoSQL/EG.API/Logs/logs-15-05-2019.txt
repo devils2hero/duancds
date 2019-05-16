@@ -1,0 +1,21 @@
+15-05-2019 09:28:43.000 +07:00 [Information] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: User profile is available. Using 'C:\Users\LeManhHung\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+15-05-2019 09:28:43.701 +07:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/2.0 GET https://localhost:44383/api/values  
+15-05-2019 09:28:43.826 +07:00 [Information] Microsoft.AspNetCore.Routing.EndpointMiddleware: Executing endpoint 'EG.API.Controllers.ValuesController.Get (EG.API)'
+15-05-2019 09:28:43.847 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Route matched with {action = "Get", controller = "Values"}. Executing action EG.API.Controllers.ValuesController.Get (EG.API)
+15-05-2019 09:28:43.855 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executing action method EG.API.Controllers.ValuesController.Get (EG.API) - Validation state: Valid
+15-05-2019 09:28:43.858 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executed action method EG.API.Controllers.ValuesController.Get (EG.API), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.3589ms.
+15-05-2019 09:28:43.867 +07:00 [Information] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Executing ObjectResult, writing value of type 'System.String[]'.
+15-05-2019 09:28:43.975 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executed action EG.API.Controllers.ValuesController.Get (EG.API) in 126.7255ms
+15-05-2019 09:28:43.976 +07:00 [Information] Microsoft.AspNetCore.Routing.EndpointMiddleware: Executed endpoint 'EG.API.Controllers.ValuesController.Get (EG.API)'
+15-05-2019 09:28:43.981 +07:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 279.7163ms 200 application/json; charset=utf-8
+15-05-2019 09:28:44.076 +07:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/2.0 GET https://localhost:44383/favicon.ico  
+15-05-2019 09:28:44.081 +07:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 4.8654ms 404 
+15-05-2019 09:28:54.561 +07:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request starting HTTP/2.0 GET https://localhost:44383/api/course  
+15-05-2019 09:28:54.566 +07:00 [Information] Microsoft.AspNetCore.Routing.EndpointMiddleware: Executing endpoint 'EG.API.Controllers.Childev.CourseController.GetAll (EG.API)'
+15-05-2019 09:28:54.570 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Route matched with {action = "GetAll", controller = "Course"}. Executing action EG.API.Controllers.Childev.CourseController.GetAll (EG.API)
+15-05-2019 09:28:57.006 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executing action method EG.API.Controllers.Childev.CourseController.GetAll (EG.API) - Validation state: Valid
+15-05-2019 09:28:57.041 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executed action method EG.API.Controllers.Childev.CourseController.GetAll (EG.API), returned result Microsoft.AspNetCore.Mvc.JsonResult in 34.7099ms.
+15-05-2019 09:28:57.044 +07:00 [Information] Microsoft.AspNetCore.Mvc.Formatters.Json.Internal.JsonResultExecutor: Executing JsonResult, writing value of type 'MongoDB.Driver.Linq.MongoQueryableImpl`2[[EG.Model.Models.Childev.Course, EG.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[EG.Model.Models.Childev.Course, EG.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+15-05-2019 09:28:58.579 +07:00 [Information] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: Executed action EG.API.Controllers.Childev.CourseController.GetAll (EG.API) in 4009.2758ms
+15-05-2019 09:28:58.579 +07:00 [Information] Microsoft.AspNetCore.Routing.EndpointMiddleware: Executed endpoint 'EG.API.Controllers.Childev.CourseController.GetAll (EG.API)'
+15-05-2019 09:28:58.580 +07:00 [Information] Microsoft.AspNetCore.Hosting.Internal.WebHost: Request finished in 4019.0862ms 200 application/json; charset=utf-8

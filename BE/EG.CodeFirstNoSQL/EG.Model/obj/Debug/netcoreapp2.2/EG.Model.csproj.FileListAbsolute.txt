@@ -1,0 +1,8 @@
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\bin\Debug\netcoreapp2.2\EG.Model.deps.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\bin\Debug\netcoreapp2.2\EG.Model.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\bin\Debug\netcoreapp2.2\EG.Model.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\obj\Debug\netcoreapp2.2\EG.Model.csproj.CoreCompileInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\obj\Debug\netcoreapp2.2\EG.Model.AssemblyInfoInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\obj\Debug\netcoreapp2.2\EG.Model.AssemblyInfo.cs
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\obj\Debug\netcoreapp2.2\EG.Model.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Model\obj\Debug\netcoreapp2.2\EG.Model.pdb

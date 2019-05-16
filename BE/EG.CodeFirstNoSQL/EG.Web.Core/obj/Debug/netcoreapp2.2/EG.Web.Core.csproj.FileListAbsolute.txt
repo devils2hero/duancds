@@ -1,0 +1,12 @@
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\bin\Debug\netcoreapp2.2\EG.Web.Core.deps.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\bin\Debug\netcoreapp2.2\EG.Web.Core.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\bin\Debug\netcoreapp2.2\EG.Web.Core.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\bin\Debug\netcoreapp2.2\EG.Model.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\bin\Debug\netcoreapp2.2\EG.Model.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.csprojAssemblyReference.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.csproj.CoreCompileInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.AssemblyInfoInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.AssemblyInfo.cs
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.csproj.CopyComplete
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Web.Core\obj\Debug\netcoreapp2.2\EG.Web.Core.pdb

@@ -1,0 +1,16 @@
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Service.deps.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Service.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Service.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Data.Mongo.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Model.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Web.Core.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Data.Mongo.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Model.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\bin\Debug\netcoreapp2.2\EG.Web.Core.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.csprojAssemblyReference.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.csproj.CoreCompileInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.AssemblyInfoInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.AssemblyInfo.cs
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.csproj.CopyComplete
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Service\obj\Debug\netcoreapp2.2\EG.Service.pdb

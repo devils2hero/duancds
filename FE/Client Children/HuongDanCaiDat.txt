@@ -1,0 +1,5 @@
+- B1: > npm install
+- B2: > react-native eject
+- B3: > react-native link
+- B4: > react-native link @ant-design/icons-react-native
+- B5: > react-native run-android

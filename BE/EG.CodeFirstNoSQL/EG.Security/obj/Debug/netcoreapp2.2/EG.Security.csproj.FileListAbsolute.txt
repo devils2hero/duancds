@@ -1,0 +1,16 @@
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Security.deps.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Security.runtimeconfig.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Security.runtimeconfig.dev.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Security.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Security.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Model.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Web.Core.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Web.Core.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\bin\Debug\netcoreapp2.2\EG.Model.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.csprojAssemblyReference.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.csproj.CoreCompileInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.AssemblyInfoInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.AssemblyInfo.cs
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.csproj.CopyComplete
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Security\obj\Debug\netcoreapp2.2\EG.Security.pdb

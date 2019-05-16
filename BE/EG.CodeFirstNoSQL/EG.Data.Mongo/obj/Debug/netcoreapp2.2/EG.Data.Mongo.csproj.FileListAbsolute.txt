@@ -1,0 +1,12 @@
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\bin\Debug\netcoreapp2.2\EG.Data.Mongo.deps.json
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\bin\Debug\netcoreapp2.2\EG.Data.Mongo.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\bin\Debug\netcoreapp2.2\EG.Data.Mongo.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\bin\Debug\netcoreapp2.2\EG.Model.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\bin\Debug\netcoreapp2.2\EG.Model.pdb
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.csprojAssemblyReference.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.csproj.CoreCompileInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.AssemblyInfoInputs.cache
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.AssemblyInfo.cs
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.csproj.CopyComplete
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.dll
+D:\CDSkills\trunk\BE\EG.CodeFirstNoSQL\EG.Data.Mongo\obj\Debug\netcoreapp2.2\EG.Data.Mongo.pdb
